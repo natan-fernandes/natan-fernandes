@@ -1,5 +1,5 @@
 ## Hello, friend
-Natan, apenas um estudante de engenharia de software.
+Natan, apenas um estudante.
 
 [![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natan-fernandes&count_private=true&show_icons=true&bg_color=000&title_color=f00&text_color=fff&icon_color=f00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
