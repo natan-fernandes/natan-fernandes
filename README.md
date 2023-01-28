@@ -4,8 +4,10 @@
 <a href='mailto:natanfernandes@protonmail.com'>
   <img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white'/>
 </a>
+
 <br/>
 <br/>
+
 <span>
     <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'/>
 </span>
