@@ -1,12 +1,11 @@
-#### Get in touch at
 <a href="https://www.linkedin.com/in/natanfernandes">
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 <a href='mailto:natanfernandes@protonmail.com'>
   <img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white'/>
 </a>
-
-#### My stack
+<br/>
+<br/>
 <span>
     <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'/>
 </span>
@@ -41,7 +40,6 @@
 <span>
     <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
 </span>
-<br/>
 <br/>
 <span>
     <img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white'/>
